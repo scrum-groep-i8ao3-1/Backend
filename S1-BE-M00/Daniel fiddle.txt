@@ -1,0 +1,24 @@
+using System;
+
+    public class Program
+    {
+         public static void Main()
+        {
+            Console.WriteLine("Daniël van der Wel");
+            Console.WriteLine("Ravenhorsthoek 4");
+            Console.WriteLine("7546EA, Enschede");
+            Console.WriteLine("16 jaar");
+        }
+    }
+----------------------------------------------------------------
+using System;
+
+    public class Program
+    {
+         public static void Main()
+        {
+            Console.WriteLine("**************");
+            Console.WriteLine("****Daniël****");
+            Console.WriteLine("**************");
+        }
+    }

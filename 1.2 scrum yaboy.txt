@@ -1,0 +1,14 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("*******************");
+		Console.WriteLine("*** Timur Kocoz ***");
+		Console.WriteLine("*******************");
+		Console.WriteLine("Wethouderelhorststraat 46");
+		Console.WriteLine("4573TD Enschede");
+		Console.WriteLine("15");
+	}
+}

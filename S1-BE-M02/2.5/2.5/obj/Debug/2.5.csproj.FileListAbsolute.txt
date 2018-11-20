@@ -1,0 +1,2 @@
+C:\Users\gebruiker\scrum\sprint1\S1-BE-M02\2.5\2.5\obj\Debug\2.5.csprojAssemblyReference.cache
+C:\Users\gebruiker\scrum\sprint1\S1-BE-M02\2.5\2.5\obj\Debug\2.5.csproj.CoreCompileInputs.cache

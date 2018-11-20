@@ -1,0 +1,9 @@
+table{
+	background: linear-gradient(to bottom right, red, orange, yellow, green);
+	border-style: double;
+}
+td{
+	padding-left: 15px;
+	padding-right: 15px;
+	border-style: double;
+}

@@ -1,6 +1,0 @@
-E:\scrum\opdrachten hier!\S1-BE-M02\2.5\2.5\obj\Debug\2.5.csproj.CoreCompileInputs.cache
-E:\scrum\opdrachten hier!\S1-BE-M02\2.5\2.5\bin\Debug\2.5.exe.config
-E:\scrum\opdrachten hier!\S1-BE-M02\2.5\2.5\bin\Debug\2.5.exe
-E:\scrum\opdrachten hier!\S1-BE-M02\2.5\2.5\bin\Debug\2.5.pdb
-E:\scrum\opdrachten hier!\S1-BE-M02\2.5\2.5\obj\Debug\2.5.exe
-E:\scrum\opdrachten hier!\S1-BE-M02\2.5\2.5\obj\Debug\2.5.pdb

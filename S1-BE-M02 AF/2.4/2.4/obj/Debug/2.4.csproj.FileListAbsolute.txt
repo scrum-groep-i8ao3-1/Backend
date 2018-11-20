@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+C:\Users\gebruiker\scrum\sprint1\S1-BE-M02\2.4\2.4\bin\Debug\2.4.exe.config
+C:\Users\gebruiker\scrum\sprint1\S1-BE-M02\2.4\2.4\bin\Debug\2.4.exe
+C:\Users\gebruiker\scrum\sprint1\S1-BE-M02\2.4\2.4\bin\Debug\2.4.pdb
+C:\Users\gebruiker\scrum\sprint1\S1-BE-M02\2.4\2.4\obj\Debug\2.4.csprojAssemblyReference.cache
+C:\Users\gebruiker\scrum\sprint1\S1-BE-M02\2.4\2.4\obj\Debug\2.4.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\scrum\sprint1\S1-BE-M02\2.4\2.4\obj\Debug\2.4.exe
+C:\Users\gebruiker\scrum\sprint1\S1-BE-M02\2.4\2.4\obj\Debug\2.4.pdb
+=======
+E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\bin\Debug\2.4.exe.config
+E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\bin\Debug\2.4.exe
+E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\bin\Debug\2.4.pdb
+E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\obj\Debug\2.4.csprojAssemblyReference.cache
+E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\obj\Debug\2.4.csproj.CoreCompileInputs.cache
+E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\obj\Debug\2.4.exe
+E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\obj\Debug\2.4.pdb
+>>>>>>> a56133550c573f6f2cffa2d621bffbbca89d7d19

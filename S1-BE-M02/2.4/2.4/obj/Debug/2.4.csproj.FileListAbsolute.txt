@@ -5,3 +5,10 @@ E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\obj\Debug\2.4.csprojAssemblyReferenc
 E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\obj\Debug\2.4.csproj.CoreCompileInputs.cache
 E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\obj\Debug\2.4.exe
 E:\scrum\opdrachten hier!\S1-BE-M02\2.4\2.4\obj\Debug\2.4.pdb
+E:\scrum2\Backend\S1-BE-M02\2.4\2.4\bin\Debug\2.4.exe.config
+E:\scrum2\Backend\S1-BE-M02\2.4\2.4\bin\Debug\2.4.exe
+E:\scrum2\Backend\S1-BE-M02\2.4\2.4\bin\Debug\2.4.pdb
+E:\scrum2\Backend\S1-BE-M02\2.4\2.4\obj\Debug\2.4.csprojAssemblyReference.cache
+E:\scrum2\Backend\S1-BE-M02\2.4\2.4\obj\Debug\2.4.csproj.CoreCompileInputs.cache
+E:\scrum2\Backend\S1-BE-M02\2.4\2.4\obj\Debug\2.4.exe
+E:\scrum2\Backend\S1-BE-M02\2.4\2.4\obj\Debug\2.4.pdb

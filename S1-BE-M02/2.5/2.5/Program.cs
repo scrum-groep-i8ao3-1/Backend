@@ -22,23 +22,20 @@ namespace ConsoleApp14
 
             Lak = Prijs / 100 * 5;
             Console.WriteLine("+ metallic lak: " + Lak);
-            Console.ReadLine();
 
             Bekleding = Prijs / 100 * 5;
             Console.WriteLine("+ leren bekleding: " + Bekleding);
-            Console.ReadLine();
 
             Automaat = 1000;
             Console.WriteLine("+ automaat: " + Automaat);
-            Console.ReadLine();
 
             AutoPrijs = Prijs + Lak + Bekleding + Automaat;
             Console.WriteLine("De totaal prijs exclusief BTW is: " + AutoPrijs);
-            Console.ReadLine();
 
 
             BTW = AutoPrijs / 100 * 121;
             Console.WriteLine("De totaal prijs inclusief BTW is: " + BTW);
-            Console.ReadLine();
+            Console.Read();
         }
     }
+}

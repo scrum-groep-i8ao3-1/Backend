@@ -1,0 +1,69 @@
+div{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	opacity: 0.7;
+	text-align: center;
+	font-size: 1.7rem;
+	color: aliceblue;
+}
+
+.verticaal{
+	margin: 30px 20px 0.0;
+	transform:            skew( 0, -30deg );
+	-ms-transform:        skew( 0, -30deg );
+	-moz-transform:       skew( 0, -30deg );
+	-o-transform:         skew( 0, -30deg );
+	-webkit-transform:    skew( 0, -30deg );
+}
+.verticaal{
+	margin: 30px 20px 0.0;
+	transform:            skew( 0, -30deg );
+	-ms-transform:        skew( 0, -30deg );
+	-moz-transform:       skew( 0, -30deg );
+	-o-transform:         skew( 0, -30deg );
+	-webkit-transform:    skew( 0, -30deg );
+}
+#een {
+	border-radius: 50%;
+	background-color: blue;
+	position: relative;
+	box-shadow: 5px 5px 10px black;
+	z-index: -2;
+}
+
+#twee {
+	border-radius: 50%;
+	background-color: red;
+	position: relative;
+	bottom: 160px;
+	box-shadow: 5px 5px 10px black;
+	z-index: -1;
+}
+
+#drie {
+	border-radius: 50%;
+	background-color: green;
+	position: relative;
+	bottom: 320px;
+	box-shadow: 5px 5px 10px black;
+	z-index: 0;
+}
+
+#Een{
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	opacity: 0.7;
+	text-align: center;
+	font-size: 1.7rem;
+	color: white;
+	border-radius: 50%;
+	background-color: white;
+	position: relative;
+	box-shadow: 5px 5px 10px black;
+	z-index: -2;
+	
+}
+	
+	

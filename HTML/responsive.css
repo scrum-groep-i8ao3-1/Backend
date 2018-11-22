@@ -10,12 +10,6 @@ main{
 table th{
 	font-size: 1.2rem;
 }
-table td{
-	font-size: 1.2rem;
-}
-nav ul li a{
-	font-size: 1.2rem;
-}
 #logo{
 	margin-top: 35px;
 	padding-top: 10%;
@@ -79,6 +73,33 @@ nav ul li a{
 	margin-left: auto;
 	margin-right: auto;
 	float: none;
+}
+@media only screen
+and (max-width: 600px){
+	body{
+		max-width: 600px
+	}
+	main{
+		background-color: #D4808B;
+	}
+	table th{
+		font-size: 0.8rem;
+	}
+	table td{
+		font-size: 0.8rem;
+	}
+}
+@media only screen
+and (max-width: 480px){
+	body{
+		max-width: 480px
+	}
+	main{background-color: #ff4E00;
+	}
+	nav ul li{
+		float: none;
+		width: 100%;
+	}
 }
 
 		

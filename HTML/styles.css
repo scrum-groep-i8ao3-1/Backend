@@ -1,7 +1,7 @@
 /*stijlen voor RadioGaGa*/
 html{
-	height: 100%:
-	width: 100%
+	height: 100%;
+	width: 100%;
 	background-color: #lightgray;
 	overflow: auto;
 	text-align: center;
@@ -262,43 +262,6 @@ input[type=submit]: hover{
 	opacity: 1;
 	transition: opacity 0.5s linear;
 }
-
-/* max 900px (tablets) */
-@media only screen
-and (max-width: 900px){
-body{
-	max-width: 900px;
-}
-main{
-	background-color: #97D0AC;
-}
-nav ul li a{
-	font-size: 1.2rem;
-}
-#logo{
-	margin-top: 35px;
-	padding-top: 10%;
-	background-size: 50% 50%;
-}	
-#albums{
-	width: 100%;
-	padding-left: 5%;
-	float: left;
-}
-#albums ul li img{
-	width: 18%;
-	margin-top: 3%;
-	margin-left: 7%;
-	margin-bottom: 5%;
-	float: left;
-}
-#multimedia{
-	margin-left: auto;
-	margin-right: auto;
-	float: none;
-	}
-}
-	
 
 /* Safari, Opera */
 @-webkit-keyframes revolutie {

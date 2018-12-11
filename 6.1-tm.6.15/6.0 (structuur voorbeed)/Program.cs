@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace _6._0__structuur_voorbeed_
     // naam
-    //leeftijd
     //punten
     //start datum
     // controleur

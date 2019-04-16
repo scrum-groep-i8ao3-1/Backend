@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="lab10.css">
+</head>
+<body>
+	<form name="inschrijfformulier"
+		action = "mailto: tom.m@hotmail.nl"
+		method = "post">
+	<fieldset>
+	<legend>Inschrijf Formulier</legend>
+	<select required naam="Kies cursus" id="Kies cursus">
+	<option value="0">Kies cursus</option>
+	<option value="Fotografie">Fotografie</option>
+	<option value="Powerpoint">Powerpoint</option>
+	<option value="Excel">Excel</option>
+	</select>
+	<br>
+		
+		<select required naam="Kies locatie" id="Kies locatie">
+	<option value="0">Kies locatie</option>
+	<option value="Borne">Borne</option>
+	<option value="Hengelo">Hengelo</option>
+	<option value="Enschede">Enschede</option>
+	</select>
+		<br>
+		
+		<label for="datum">Begin datum: </label> <br>
+		<input required type="date" name="datum" id="datum"> <br>
+		BOL <input type="radio" name="Kies opleiding" Value="BOL">
+		BBL <input type="radio" name="Kies opleiding" Value="BBL">
+		<br>
+		
+		<input required type="text" id="naam"
+					name="naam" placeholder="Naam"><br>
+				
+			<input required type="text" id="achternaam"
+					name="achternaam" placeholder="Achternaam"><br>
+				
+				<input required type="text" id="woonplaats"
+					name="woonplaats" placeholder="Woonplaats"><br>
+				
+					<input required type="email" id="email"
+						name="email" placeholder="E-mail"><br>
+				
+						<input required type="mobiel" id="mobiel"
+							name="mobiel" placeholder="Mobiel"><br>
+					
+		<label>Geef je voorkeur aan</label><br>
+		<label for="deelnemers">Kies voorkeur:</label><br>
+		Avondschool:
+		<input type="checkbox" name="Avondschool"
+			id="Avondschool" value="Avondschool"><br>
+			
+		Weekendschool:
+		<input type="checkbox" name="Weekendschool"
+			id="Weekendschool" value="Weekendschool"><br>
+			
+		Geen voorkeur:
+		<input type="checkbox" name="Geen voorkeur"
+			id="Geen voorkeur" value="Geen voorkeur"><br>
+		<label for="Niveau">Niveau</label>
+		<input type="range" name="Niveau" id="Niveau" min="1" max="4">
+	</fieldset>
+	<input type="submit" id="verzend"
+	name="verzend" value="Verzend">
+	</form>
+	</main>
+</body>
+</html>
